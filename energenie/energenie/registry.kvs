@@ -1,8 +1,0 @@
-ADD tv
-type=MIHO005
-device_id=1675
-
-ADD fan
-type=ENER002
-device_id=[822412, 1]
-
